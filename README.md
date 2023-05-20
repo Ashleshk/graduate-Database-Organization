@@ -1,5 +1,5 @@
-# Netflix-database-management-system
-
+### Database Organization:
+# Netflix Media Database Application 
 The objective of this project is to analyze the customer database & help Netflix make business decisions and recommendations.
 
 ### Dataset
